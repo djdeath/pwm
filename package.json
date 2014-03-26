@@ -1,0 +1,21 @@
+{
+    "name": "pwm",
+    "version": "0.0.1",
+    "author": {
+        "name": "Lionel Landwerlin",
+        "email": "lionel.g.landwerlin@linux.intel.com"
+    },
+    "description": "Talk to your general purpose inputs and outputs using PWM",
+    "keywords": ["gpio", "pwm", "sysfs"],
+    "main": "lib/pwm.js",
+    "repository": "git://github.com/djdeath/pwm.git",
+    "devDependencies": {
+        "sinon": "*"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/djdeath/pwm/master/LICENSE"
+        }
+    ]
+}
