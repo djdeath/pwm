@@ -5,7 +5,7 @@
         "name": "Lionel Landwerlin",
         "email": "lionel.g.landwerlin@linux.intel.com"
     },
-    "description": "Talk to your general purpose inputs and outputs using PWM",
+    "description": "Write to your PWM outputs",
     "keywords": ["gpio", "pwm", "sysfs"],
     "main": "lib/pwm.js",
     "repository": "git://github.com/djdeath/pwm.git",
