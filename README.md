@@ -23,13 +23,13 @@ pwm5.setEnable(1, function() {
 ```
 ```js
 // Set pin period
-pwm5.setPeriod(1000, function() {
+pwm5.setPeriod(1000000, function() {
     console.log("Period set!");
 });
 ```
 ```js
 // Set pin duty cycle
-pwm5.setDutyCycle(1000, function() {
+pwm5.setDutyCycle(500000, function() {
     console.log("Duty cycle set!");
 });
 ```
